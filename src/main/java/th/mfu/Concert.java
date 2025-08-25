@@ -4,7 +4,7 @@ import java.util.Date;
 
 public class Concert {
 
-    //TODO: add attributes
+    //add attributes
     private int id;
     private String title;
     private String performer;
@@ -15,7 +15,7 @@ public class Concert {
     }
     
     public Concert(String title, String description) {
-        //TODO: set attributes
+        //set attributes
         this.title = title;
         this.description = description;
     }
